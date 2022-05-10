@@ -7,3 +7,5 @@ Diferencial do projeto apresentado são: marca registrada e favicon personalizad
 - Meu primeiro jogo de naves  :heavy_check_mark:
 
 Diferencial do projeto apresentado são: marca registrada e favicon personalizado
+
+- Jogo Genius :heavy_check_mark:
